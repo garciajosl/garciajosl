@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @garciajosl
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL, Python, Looker Studio and Power BI
 - 📫 How to reach me on LinkedIn
 ![image](https://github.com/user-attachments/assets/b489d655-8a6c-4d43-84b3-3a2c0d601762)
